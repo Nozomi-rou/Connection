@@ -21,6 +21,7 @@
 
 .gotemclocked {
     border: 6px solid #000;
+    background-color: #00000066;
     border-radius: 15px;
     box-shadow: 2px 2px 6px #00000066;
     display: flex;
@@ -29,12 +30,12 @@
     justify-content: center;
     width: 100%;
     height: 100%;
-    max-width: 800px;
+    max-width: 600px;
     max-height: 300px;
     font-family: 'richlaugh';
-    font-size: larger;
+    font-size: 300%;
     align-items: center;
-    padding: 20px;
+    padding: 15px;
 }
 
 .nogs {
@@ -45,6 +46,7 @@
 }
 
 .logger {
+    background-color: #00000066;
     border-radius: 15px;
     border: 6px solid #000;
     box-shadow: 2px 2px 6px #00000066;
@@ -53,7 +55,7 @@
     margin-top: 100px;
     width: 100%;
     height: 100%;
-    max-width: 800px;
+    max-width: 600px;
     max-height: 800px;
     font-family: 'calmestocean';
     align-items: center;
