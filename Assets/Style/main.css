@@ -1,0 +1,26 @@
+@font-face {
+    font-family: richlaugh;
+    src: url(Fonts/richlaugh.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: calmestocean;
+    src: url(Fonts/calm.woff2) format('woff2');
+}
+
+.spaceig {
+    border: none;
+    display: flex;
+    top: 80px;
+    justify-content: center;
+}
+
+.gotemclocked {
+    border-radius: 6px;
+    box-shadow: 2px 2px 6px #00000066;
+    display: flex;
+    z-index: 1000;
+    justify-content: center;
+    font-family: 'richlaugh';
+    align-items: center;
+}
