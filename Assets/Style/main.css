@@ -10,12 +10,12 @@
 
 * {
     font-family: 'calmestocean';
+    box-sizing: border-box;
 }
 
 .spaceig {
     border: none;
     display: flex;
-    top: 80px;
     justify-content: center;
 }
 
@@ -29,7 +29,6 @@
     z-index: 1000;
     justify-content: center;
     width: 100%;
-    height: 100%;
     max-width: 600px;
     max-height: 300px;
     font-size: 400%;
@@ -53,7 +52,6 @@
     justify-content: center;
     margin-top: 100px;
     width: 100%;
-    height: 100%;
     max-width: 600px;
     max-height: 800px;
     font-family: 'calmestocean';
