@@ -14,9 +14,6 @@
     color: #fff;
 }
 
-html {
-    background-color: black;
-}
 
 .spaceig {
     border: none;
@@ -25,8 +22,8 @@ html {
 }
 
 .gotemclocked {
-    border: 6px solid #fff;
-    background-color: #ffffff1f;
+    border: 6px solid #ffffff66;
+    background-color: #00000080;
     border-radius: 40px;
     box-shadow: 2px 2px 6px #00000066;
     backdrop-filter: blur(12px);
@@ -50,10 +47,10 @@ html {
 }
 
 .logger {
-    background-color: #ffffff1f;
+    background-color: #00000080;
     backdrop-filter: blur(12px);
     border-radius: 15px;
-    border: 6px solid #fff;
+    border: 6px solid #ffffff66;
     box-shadow: 2px 2px 6px #00000066;
     display: flex;
     justify-content: center;
