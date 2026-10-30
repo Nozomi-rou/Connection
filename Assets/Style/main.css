@@ -83,4 +83,8 @@
     color: inherit;
     opacity: 0.5;
 }
+
+.textlogger:focus {
+    outline: none;
+    border: #ffffff60;
 }
