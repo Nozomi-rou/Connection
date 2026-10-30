@@ -1,3 +1,7 @@
+:root {
+    --it : #0a103073;
+}
+
 html {
     background: #0a1030 url('../Images/background.jpg') center/cover no-repeat;
     min-height: 100vh;
@@ -6,4 +10,12 @@ html {
 body{
     min-height: 100vh;
     margin: 0;
+}
+
+.deadman {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: -1;
+    background: var(--it);
 }
