@@ -33,12 +33,22 @@
     margin-top: 100px;
     z-index: 1000;
     justify-content: center;
+    text-align: center;
     width: 100%;
     max-width: 300px;
-    max-height: 200px;
     font-size: 200%;
     align-items: center;
     padding: 5px;
+}
+
+.gotemclocked h1 {
+    margin: 0;
+}
+
+.gotemclocked p {
+    margin: 0;
+    font-size: 0.5em;
+    opacity: 0.8;
 }
 
 .nogs {
@@ -88,5 +98,6 @@
 
 .textlogger:focus {
     outline: none;
-    border: #ffffff60;
+    border-color: #ffffffb0;
+    box-shadow: 0 0 0 3px #ffffff40;
 }
