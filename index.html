@@ -6,7 +6,8 @@
         <meta name="viewport" content="width=device-width , initial-scale=1">
         <link rel="icon" href="Assets/Images/connection.png" type="image/png">
         <link rel="stylesheet" href="Assets/Style/back.css">
-        <link rel="stylesheet" href="Assets/Style/main.css">
+        <link rel="stylesheet" href="Assets/Style/clock.css">
+        <link rel="stylesheet" href="Assets/Style/logger.css">
         <script src="Assets/js/clock.js" defer></script>
         <script src="Assets/js/worldstate.js" defer></script>
         <script src="Assets/js/bg.js" defer></script>
@@ -23,7 +24,12 @@
         </header>
         <main class="nogs">
             <div class="logger">
+                <div id="worldstate"></div>
+                <div class="lov">
                 <textarea class="textlogger" id="loggger" rows="1" placeholder="How's the Moment? "></textarea>
+                <button id="dull" class="knife" type="button" hidden>Nope</button>
+                <button id="sharp" class="knife" type="button">New</button>
+                </div>
             </div>
         </main>
     </body>
