@@ -21,6 +21,7 @@ stardance: for being the reason this project was ever made
 <p><a href="https://developer.mozilla.org/en-US/">mdn mozzila (which has always been my fav place)</a> <br>
 <a href="https://www.theodinproject.com/">the odin project (check it out , its the best for newbies, also links to mozzila)</a>
 <br> <a href="https://www.youtube.com/watch?v=-v36WcbDs9k"> this guy , whom without there would have been no clock</a></p>
+<p>Image by <a href="https://pixabay.com/users/yaomuyu-57712153/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=10489623">YaoMuyu</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=10489623">Pixabay</a></p>
 <br>
 <br>
 <br>
